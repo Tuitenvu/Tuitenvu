@@ -5,7 +5,7 @@
   <img src="http://mrwgifs.com/wp-content/uploads/2014/06/Cute-Cat-Hacking-Into-Top-Secret-Files-On-Chis-Sweet-Home-Anime.gif" width=200>
   <br><br>
   <samp>
-    Tôi là <a href="https://trungkien.tk/">Trung Kiên</a> hiện tại tôi đang là học sinh THPT, với ước mơ trở thành một Developer chuyên nghiệp, tôi thích khám phá, tìm tòi, học hỏi những điều thú vị trên mạng Internet. Biết đôi chút về C++, PYTHON, JS,...
+    Tôi là <a href="https://fb.com/thanhvu.user/">Thanh Vũ </a> hiện tại tôi đang là học sinh THPT, với ước mơ trở thành một Developer chuyên nghiệp, tôi thích khám phá, tìm tòi, học hỏi những điều thú vị trên mạng Internet. Biết đôi chút về C++, PYTHON, JS,...
   </samp>
 </p>
 
