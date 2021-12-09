@@ -20,7 +20,7 @@ Tớ tên là Nguyễn Thanh Vũ
 **Thông tin liên lạc**
 
 - ⚡ Faceebok : **[Nguyễn Thanh Vũ](https://www.facebook/thanhvu.user)**
-- ⚡ Youtube : **[Nguyễn Thanh Vũ Official](https://www.youtube.com/channel/)**
+- ⚡ Instagram : **[_user.2k5_](https://www.instagram.com/_user.2k5_)**
 - ⚡ Gmail : **[nguyenthanhvudvfb@gmail.com](https://gmail.com)**
-- ⚡ Github : **[vuchimbe](https://github.com/vuchimbe)**
+- ⚡ Github : **[thanhvu-user](https://github.com/thanhvu-user)**
 - ⚡ Zalo: **[Nguyễn Thanh Vũ](https://zalo.me/0866810260)**
