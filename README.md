@@ -1,28 +1,20 @@
-<h1> Xin chào <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h1>
+<h1 align="center">Hi 👋, I'm Nguyen Thanh Vu</h1>
+<h3 align="center">Toi khong phai la mot procoder</h3>
 
-Tớ tên là Nguyễn Thanh Vũ
+- 👨‍💻 All of my projects are available at [http://nguyenthanhvu.xyz](http://nguyenthanhvu.xyz)
 
-<img src="https://i.imgur.com/X6e5tiT.jpg"> 
+- 📫 How to reach me **nguyenthanhvudvfb@gmail.com**
 
-**Giới thiệu**
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://fb.com/thanhvu.user" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="thanhvu.user" height="30" width="40" /></a>
+<a href="https://instagram.com/thanhvu.user" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thanhvu.user" height="30" width="40" /></a>
+</p>
 
-- 🔴 Tôi tên là **Nguyễn Thanh Vũ**
-- 🔴 Học sinh **THPT**
-- 🔴 Date of birth : **29/06/2005**
-- 🔴 Chiều cao : **1m75**
-- 🔴 Tính cách : hơi **ngu**, **nhạt**, đôi lúc cũng hay **đùa giỡn** cùng các bạn trong nhóm
-- 🔴 Tôi hiện tại đang sinh sống tại ** Buôn Ma Thuột **
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </p>
 
-**Sở thích**
+<h3 align="left">Support:</h3>
+<p><a href="https://ko-fi.com/0444495365555"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="0444495365555" /></a></p><br><br>
 
-- 🟡 Thích nghe nhạc 
-- 🟡 Thích chơi game (LOL, MINECRAFT)
-- 🟡 Thích phá code, tò mò những điều thú vị
-
-**Thông tin liên lạc**
-
-- 🟢 Faceebok : **[Nguyễn Thanh Vũ](https://www.facebook/thanhvu.user)**
-- 🟢 Instagram : **[_user.2k5_](https://www.instagram.com/_user.2k5_)**
-- 🟢 Gmail : **[nguyenthanhvudvfb@gmail.com](https://gmail.com)**
-- 🟢 Github : **[thanhvu-user](https://github.com/thanhvu-user)**
-- 🟢 Zalo: **[Nguyễn Thanh Vũ](https://zalo.me/0866810260)**
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tuitenvu&show_icons=true&locale=en&layout=compact" alt="tuitenvu" /></p>
