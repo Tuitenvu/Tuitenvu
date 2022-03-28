@@ -1,6 +1,7 @@
 Hello world my name NguyenThanhVu👋
 
-```js const wellcome to my github = {
+```js 
+const about me = {
     author: ["tuitenvu"],
         name: {
         first_name: "Nguyen",
